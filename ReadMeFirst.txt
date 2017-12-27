@@ -1,0 +1,1 @@
+This is my first program that I wrote, using Microsoft Visual Basic 2015. This program is developed from "You Do It #1", on page 257, from "Programming with Visual Basic 2015" by Diane Zac. This is also my first GitHub program as well. 
