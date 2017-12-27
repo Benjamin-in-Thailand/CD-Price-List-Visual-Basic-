@@ -18,7 +18,7 @@ Public Class Form1
         strCost = txtPrice.Text.ToUpper
 
         If strCost = "YES" Then
-            dlgbutton = MessageBox.Show(strPROMPT, "Is the Coupon $4", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation)
+            dlgbutton = MessageBox.Show(strPROMPT, "Coupon Price", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation)
             If dlgbutton = DialogResult.Yes Then
                 lblPrice.Text = strCOUPONTWO
             Else
